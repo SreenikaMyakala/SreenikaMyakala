@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sreenika</h1>
-<h3 align="center">I love building web and mobile apps</h3>
+<h3 align="center">I love building apps</h3>
 
 - 🔭 I’m currently working on [compose ( a rich text editor)](https://github.com/SreenikaMyakala/Compose)
 
-- 🌱 I’m currently learning **/ completely into web app development**
+- 🌱 I’m currently learning **/ completely into app development**
 
-- 👯 I’m looking to collaborate on **apps that are specifically designed for image editing with AI**
+- 👯 I’m looking to collaborate on **apps that are specifically designed for productivity, project management, cms and design tools**
 
 - 💬 Ask me about **Javascript**
 
